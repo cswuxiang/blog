@@ -66,3 +66,38 @@
 
 [支付宝](支付宝 "http://am-team.github.io/amg/dev-exp-doc.html")
 
+
+
+
+# 团队博客 #
+
+[腾讯游戏](腾讯游戏 "http://tgideas.qq.com/")
+
+[腾讯互娱](腾讯互娱 "http://tgideas.qq.com/cguide/#JS_com6")
+
+[京东设计](京东设计 "http://jdc.jd.com/")
+
+[淘宝前端](淘宝前端 "http://taobaofed.org/")
+
+[携程设计](携程设计 "http://ued.ctrip.com/blog/")
+
+[奇舞团](奇舞团 "http://www.75team.com/")
+
+# 个人博客 #
+[鬼哥](鬼哥 "http://blog.cssforest.org/")
+
+[花哥](花哥 "http://seshenghuo.com/")
+
+[zhangxinxu](zhangxinxu "http://www.zhangxinxu.com/")
+
+[justjavac（迷渡）](justjavac（迷渡） "http://justjavac.com/")
+
+
+# 生活 #
+[思维改变生活](思维改变生活 "http://mindhacks.cn/")
+
+[veda](veda "http://www.nowamagic.net/librarys/veda/")
+
+[果壳](果壳 "http://www.guokr.com/")
+
+
