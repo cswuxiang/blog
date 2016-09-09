@@ -4,6 +4,8 @@
 ----------
 # web工具 #
 
+
+
 [web测试工具](http://www.w3school.com.cn/tiy/t.asp?f=jseg_encodeURI)      
 
 [流程图](流程图 "https://www.processon.com/network")
@@ -13,6 +15,8 @@
 [JSON格式化](JSON格式化 "http://www.bejson.com/")
 
 [正则表达式](正则表达式 "http://www.rubular.com/")
+
+[代码演示](代码演示 "https://codepen.io/stix/pen/jARrRq")
 
 [配图](配图 "http://www.58pic.com/peise/")
 
@@ -82,6 +86,10 @@
 [携程设计](携程设计 "http://ued.ctrip.com/blog/")
 
 [奇舞团](奇舞团 "http://www.75team.com/")
+
+[前端外刊](前端外刊 "http://qianduan.guru/")
+
+[aotu](aotu "https://aotu.io/index.html")
 
 # 个人博客 #
 [鬼哥](鬼哥 "http://blog.cssforest.org/")
