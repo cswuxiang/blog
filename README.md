@@ -4,7 +4,7 @@
 ----------
 # web工具 #
 
-
+[翻译文档](翻译文档 "http://www.zhttp//www.zcfy.cc/article/")
 
 [web测试工具](http://www.w3school.com.cn/tiy/t.asp?f=jseg_encodeURI)      
 
