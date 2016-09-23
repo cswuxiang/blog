@@ -4,7 +4,7 @@
 
 
 # 综合类 #
-----------
+
 [即时通讯](http://www.52im.net/forum.php?mod=collection&all)
 
 # web工具 #
