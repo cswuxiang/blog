@@ -1,8 +1,11 @@
 # blog
 个人博客
 
-----------
 
+
+# 综合类 #
+----------
+[即时通讯](http://www.52im.net/forum.php?mod=collection&all)
 
 # web工具 #
             
@@ -15,9 +18,7 @@
 [流程图](https://www.processon.com/network)
 
 [URL编码](http://tool.chinaz.com/Tools/URLEncode.aspx)  
-[URL编码](http://tool.chinaz.com/Tools/URLEncode.aspx)  
-[URL编码](http://tool.chinaz.com/Tools/URLEncode.aspx)  
-[URL编码](http://tool.chinaz.com/Tools/URLEncode.aspx)  
+
 
 [JSON格式化](http://www.bejson.com/)
 
@@ -37,16 +38,16 @@
 
 
 
-[网站测速](网站测速 https://www.webpagetest.org/)
+[网站测速](https://www.webpagetest.org/)
 
-[浏览器统计](浏览器统计 http://tongji.baidu.com/data/screen)
+[浏览器统计](http://tongji.baidu.com/data/screen)
 
-[浏览器支持](浏览器支持 http://caniuse.com/#search=websocket)
+[浏览器支持](http://caniuse.com/#search=websocket)
 
 
-[浏览器原理](浏览器原理 http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Painting)
+[浏览器原理](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Painting)
 
-[浏览器原理2](浏览器原理2 http://www.chromium.org/developers/)
+[浏览器原理2](http://www.chromium.org/developers/)
 
 
 [浏览器接口](https://developer.mozilla.org/zh-CN/docs/Web/API)
