@@ -2,11 +2,13 @@
 个人博客
 
 ----------
+
+
 # web工具 #
             
-[编码工具](编码工具 "http://codepen.io/cswuxiang/")
+[编码工具](http://codepen.io/cswuxiang/)
 			
-[翻译文档](翻译文档 "http://www.zhttp//www.zcfy.cc/article/")
+[翻译文档](http://www.zhttp//www.zcfy.cc/article/)
 
 [web测试工具](http://www.w3school.com.cn/tiy/t.asp?f=jseg_encodeURI)      
 
