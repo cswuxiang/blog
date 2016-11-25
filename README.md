@@ -4,6 +4,35 @@
 ----------
 
 
+# 团队博客 #
+
+[凹凸实验室](https://aotu.io/index.html)
+
+[腾讯游戏](http://tgideas.qq.com/)
+
+[腾讯互娱](http://tgideas.qq.com/cguide/#JS_com6)
+
+[京东设计](http://jdc.jd.com/)
+
+[淘宝前端](http://taobaofed.org/)
+
+[携程设计](http://ued.ctrip.com/blog/)
+
+[奇舞团](http://www.75team.com/)
+
+[前端外刊](http://qianduan.guru/)
+
+[aotu](https://aotu.io/index.html)
+
+# 个人博客 #
+[鬼哥](http://blog.cssforest.org/)
+
+[花哥](http://seshenghuo.com/)
+
+[zhangxinxu](http://www.zhangxinxu.com/)
+
+[justjavac（迷渡）](http://justjavac.com/)
+
 
 # 综合类 #
 
@@ -80,37 +109,6 @@
 
 [支付宝](http://am-team.github.io/amg/dev-exp-doc.html)
 
-
-
-
-# 团队博客 #
-
-[凹凸实验室](https://aotu.io/index.html)
-
-[腾讯游戏](http://tgideas.qq.com/)
-
-[腾讯互娱](http://tgideas.qq.com/cguide/#JS_com6)
-
-[京东设计](http://jdc.jd.com/)
-
-[淘宝前端](http://taobaofed.org/)
-
-[携程设计](http://ued.ctrip.com/blog/)
-
-[奇舞团](http://www.75team.com/)
-
-[前端外刊](http://qianduan.guru/)
-
-[aotu](https://aotu.io/index.html)
-
-# 个人博客 #
-[鬼哥](http://blog.cssforest.org/)
-
-[花哥](http://seshenghuo.com/)
-
-[zhangxinxu](http://www.zhangxinxu.com/)
-
-[justjavac（迷渡）](http://justjavac.com/)
 
 
 # 生活 #
